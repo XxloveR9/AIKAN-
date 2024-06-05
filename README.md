@@ -4,6 +4,7 @@
 AIKAN图库，一款开源的图库，文件代码简单，AIKAN爱看图床是一款支持多文件上传的无数据库图床,可以完美替代PHP多图上传程序,最新html5自适应页面兼容手机电脑,上传后返回图片直链,简单方便支持一键复制,支持多域名；
 
 体验链接 :fire: ：[http://doic.cn/d](https://www.doic.cn:4/d)
+
 图床页面 :fire: ：[http://doic.cn/d](https://www.doic.cn:4/d/photo.php)
 
 
